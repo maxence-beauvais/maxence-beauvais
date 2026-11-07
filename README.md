@@ -1,24 +1,132 @@
-# Salut, je suis Maxence Beauvais 👋
 
-Étudiant en 2ème année de **BUT Informatique** à l'IUT de Lens, je suis passionné par le développement logiciel, la création d'applications web et le modding. 
+<!-- HEADER -->
+<div align="center">
 
-## 🛠️ Stack Technique
+# 👋 Hey, moi c'est Maxence !
 
-* **Langages :** Java, Python, JavaScript, PHP, SQL, HTML/CSS
-* **Frameworks & Libs :** JavaFX, Flask, CustomTkinter
-* **Outils & DevOps :** Git, GitLab CI/CD, Gradle, Supabase, Netlify, VS Code, IntelliJ IDEA
+### 💻 Développeur en formation | BUT Informatique
 
-## 🚀 Projets Récents
+Étudiant en deuxième année de BUT Informatique à l'IUT de Lens.  
+Passionné par le développement logiciel, le développement web et la création d'applications.
 
-* **Lanceur Desktop CS2 :** Application bureau développée en Python intégrant l'authentification Steam et le Discord Rich Presence pour Counter-Strike 2.
-* **Portfolio & Outils Web :** Développement d'un portfolio personnel et d'un simulateur interactif d'ouverture de boosters du JCC Pokémon.
-* **Modding & Scripting :** Développement d'un mod Minecraft sous Fabric (1.21.1) et création d'entités/NextBots en Lua pour Garry's Mod.
-* **Développement JavaFX :** Conception de plusieurs jeux classiques (Space Invaders, Pac-Man, Puissance 4, Taquin).
+<br/>
 
-## 👾 Centres d'intérêt
+<a href="https://github.com/maxence-beauvais">
+  <img src="https://img.shields.io/badge/GitHub-Maxence--Beauvais-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/maxence-beauvais/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-* **Gaming :** Optimisation et analyse de statistiques sur Counter-Strike 2.
-* **Collection :** Cartes Pokémon (JCC).
-* **Musique :** Contributeur sur Genius pour les transcriptions de l'artiste Hamza, Don Toliver, Travis Scott...
+</div>
 
-📫 **Contact :** https://www.linkedin.com/in/maxence-beauvais/ | 📍 Arras, France
+---
+
+## 🚀 À propos de moi
+
+- 🎓 Étudiant en **BUT Informatique** à l'IUT de Lens.
+- 💻 Intéressé par le développement logiciel et le développement back-end.
+- 🛠️ Je développe des applications, des sites web et différents projets personnels.
+- 📚 Toujours motivé pour découvrir de nouvelles technologies et améliorer mes compétences.
+- 🎯 Mon objectif : concevoir des applications utiles, performantes et bien structurées.
+
+---
+
+## 🧰 Technologies & compétences
+
+### 💻 Langages de programmation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,php,html,css,mysql" />
+</p>
+
+### ⚙️ Frameworks & bibliothèques
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flask,gradle" />
+  <img src="https://img.shields.io/badge/JavaFX-Application%20Desktop-ED8B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CustomTkinter-Python-blue?style=for-the-badge" />
+</p>
+
+### 🗄️ Bases de données & services
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+### 🛠️ Outils & environnements
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,gitlab,netlify,linux,windows" />
+</p>
+
+### 🎮 Modding & scripting
+
+- Fabric : développement de mods Minecraft.
+- Lua : création d'entités et de NextBots pour Garry's Mod.
+
+---
+
+## 🚀 Mes projets publics
+
+Voici quelques projets disponibles directement sur mon GitHub.
+
+### 📝 [Todo List](https://github.com/maxence-beauvais/todo-list)
+
+Application de gestion de tâches permettant d'organiser et de suivre ses activités.
+
+**Technologie :** JavaScript.
+
+### 💬 [Plateforme Chat](https://github.com/maxence-beauvais/plateforme-chat)
+
+Projet de plateforme de discussion permettant de développer des fonctionnalités de communication entre utilisateurs.
+
+**Technologie :** JavaScript.
+
+### 🏆 [App Tournament](https://github.com/maxence-beauvais/app-tournament)
+
+Application Java autour de la gestion de tournois.
+
+**Technologie :** Java.
+
+### 🌐 [Portfolio React](https://github.com/maxence-beauvais/portfolio-react)
+
+Portfolio personnel développé avec React pour présenter mon parcours, mes compétences et mes réalisations.
+
+**Technologie :** React / JavaScript.
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maxence-beauvais&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxence-beauvais&layout=compact&theme=tokyonight&hide_border=true&locale=fr" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=maxence-beauvais&theme=tokyonight&hide_border=true&locale=fr" />
+
+</div>
+
+---
+
+## 📫 Me contacter
+
+<div align="center">
+
+<a href="https://github.com/maxence-beauvais">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/maxence-beauvais/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+⭐ Merci de visiter mon profil GitHub !
+
+</div>
