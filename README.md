@@ -68,33 +68,26 @@ Passionné par le développement logiciel, le développement web et la création
 
 ---
 
-## 🚀 Mes projets publics
+## 🚀 Mes projets
 
-Voici quelques projets disponibles directement sur mon GitHub.
+### 🌀 [FractaLens](https://github.com/maxence-beauvais/fractalens)
+Bibliothèque Java permettant de générer des fractales comme Mandelbrot, Julia ou Burning Ship. Elle propose la création d'images statiques et d'animations avec différentes palettes de couleurs et options de personnalisation.
 
-### 📝 [Todo List](https://github.com/maxence-beauvais/todo-list)
+**Technologies :** Java, Gradle, Picocli
 
-Application de gestion de tâches permettant d'organiser et de suivre ses activités.
+### 🏥 [Gestion de cabinet médical](https://github.com/maxence-beauvais/gestion-cabinet-medical)
+Application Java destinée à faciliter la gestion d'un cabinet médical. Elle permet de gérer les patients, les médecins, les rendez-vous, les médicaments et les ordonnances, avec une architecture organisée selon le modèle MVC.
 
-**Technologie :** JavaScript.
+**Technologies :** Java, Gradle, JUnit 5, Mockito, Log4j
 
 ### 💬 [Plateforme Chat](https://github.com/maxence-beauvais/plateforme-chat)
-
-Projet de plateforme de discussion permettant de développer des fonctionnalités de communication entre utilisateurs.
-
-**Technologie :** JavaScript.
+Projet de plateforme de discussion permettant aux utilisateurs d'échanger à travers une interface de messagerie.
 
 ### 🏆 [App Tournament](https://github.com/maxence-beauvais/app-tournament)
+Application dédiée à l'organisation de tournois, avec des fonctionnalités pour faciliter leur gestion et leur suivi.
 
-Application Java autour de la gestion de tournois.
-
-**Technologie :** Java.
-
-### 🌐 [Portfolio React](https://github.com/maxence-beauvais/portfolio-react)
-
-Portfolio personnel développé avec React pour présenter mon parcours, mes compétences et mes réalisations.
-
-**Technologie :** React / JavaScript.
+### 🌐 [Portfolio](https://github.com/maxence-beauvais/portfolio-react)
+Portfolio personnel développé avec React pour présenter mon parcours, mes compétences et mes différents projets.
 
 ---
 
