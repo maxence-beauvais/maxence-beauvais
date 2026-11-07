@@ -43,7 +43,7 @@ Passionné par le développement logiciel, le développement web et la création
 ### ⚙️ Frameworks & bibliothèques
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flask,gradle" />
+  <img src="https://skillicons.dev/icons?i=react,flask,laravel,gradle" />
   <img src="https://img.shields.io/badge/JavaFX-Application%20Desktop-ED8B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CustomTkinter-Python-blue?style=for-the-badge" />
 </p>
@@ -102,9 +102,11 @@ Portfolio personnel développé avec React pour présenter mon parcours, mes com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxence-beauvais&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxence-beauvais&layout=compact&theme=tokyonight&hide_border=true&locale=fr" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=maxence-beauvais&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" height="165" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=maxence-beauvais&layout=compact&theme=tokyonight&hide_border=true&locale=fr" height="165" />
+
 
 <br/>
 
