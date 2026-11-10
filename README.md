@@ -73,7 +73,7 @@ Passionné par le développement logiciel, le développement web et la création
 ### 🌀 [FractaLens](https://github.com/maxence-beauvais/fractalens)
 Bibliothèque Java permettant de générer des fractales comme Mandelbrot, Julia ou Burning Ship. Elle propose la création d'images statiques et d'animations avec différentes palettes de couleurs et options de personnalisation.
 
-**Technologies :** Java, Gradle, Picocli
+**Technologies :** Java, Gradle
 
 ### 🏥 [Gestion de cabinet médical](https://github.com/maxence-beauvais/gestion-cabinet-medical)
 Application Java destinée à faciliter la gestion d'un cabinet médical. Elle permet de gérer les patients, les médecins, les rendez-vous, les médicaments et les ordonnances, avec une architecture organisée selon le modèle MVC.
